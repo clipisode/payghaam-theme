@@ -33,8 +33,8 @@ export const siteData: SiteData = {
   nameScreen: {
     // values: UPLOAD_PERCENTAGE, INVITATION_DISPLAY_NAME, SOCIAL_NETWORK
     nameScreenHeader: `
-      <div class="my-6 flex flex-col items-center">
-        <img src="THEME_FILE_ROOT/icon.png" class="w-16 h-16" />
+      <div class="my-2 flex flex-col items-center">
+        <img src="THEME_FILE_ROOT/icon.png" class="h-24" />
       </div>
     `,
   },
