@@ -19,8 +19,23 @@ body {
 
 #introHostName {
   font-family: Montserrat;
+  margin: 1rem 2rem 0 2rem;
 }
 
 #introTitle {
   font-family: Montserrat;
+  font-weight: 700;
+  margin: 0 4rem 0 2rem;
+  font-size: 1.4rem;
+  line-height: 1.1;
+}
+
+#recordButton {
+  background-color: #5f21b7;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  padding: 6px 18px;
+  margin-bottom: 6px;
 }
