@@ -13,7 +13,7 @@ body {
   background-color: #5f21b7;
 }
 
-#detailsContainer, #nameScreen {
+#detailsContainer, #nameScreen, #nameScreen #nameScreenHeading, #nameScreen label, #nameScreen input {
   font-family: Montserrat;
 }
 
