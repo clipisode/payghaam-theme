@@ -70,4 +70,7 @@ body {
 #introBottom {
   padding-bottom: 50px;
   background-image: url(./hashtag-strap.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
