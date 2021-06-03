@@ -1,2 +1,2 @@
-# standard-theme
-The standard theme available to everyone by default.
+# payghamm-theme
+A custom Payghaam-branded theme.
