@@ -19,13 +19,13 @@ body {
 
 #introHostName {
   font-family: Montserrat;
-  margin: 1rem 2rem 0 2rem;
+  margin: 1rem 4rem 0 0.8rem;
 }
 
 #introTitle {
   font-family: Montserrat;
   font-weight: 700;
-  margin: 0 4rem 0 2rem;
+  margin: 0 4rem 0 0.8rem;
   font-size: 1.4rem;
   line-height: 1.1;
 }
@@ -36,6 +36,20 @@ body {
   font-weight: 500;
   font-size: 0.75rem;
   text-transform: uppercase;
-  padding: 6px 18px;
+  padding: 2px 24px;
   margin-bottom: 6px;
+}
+
+#uploadLink {
+  color: white;
+}
+
+#uploadLink a {
+  color: #9072b9;
+}
+
+#introTerms {
+  font-family: 'Montserrat';
+  text-align: center;
+  margin: 6px 24px;
 }
