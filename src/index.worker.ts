@@ -58,12 +58,13 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center justify-between">
         <div>
-          <p class="mt-12 mb-12 mx-3 text-center">Nice work! Your video request for <span class="whitespace-nowrap"><b>INVITATION_DISPLAY_NAME</b> was sent.</span></p>
+          <p class="mt-12 mb-12 mx-3 text-center">Awesome… all done!<br>Wasn't that easy?</p>
           <div class="items-center flex flex-col space-y-5">
             <a href="https://payghaam.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
             </a>
           </div>
+          <p class="mt-12 mb-12 mx-3 text-center"><b>While you're at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
         </div>
       </div>
   `,

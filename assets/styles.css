@@ -94,3 +94,14 @@ body {
   font-weight: 400;
   font-size: 14px;
 }
+
+#successScreen {
+  background-color: #5f21b7;
+}
+
+#successScreen p {
+  color: white;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.5rem;
+}
