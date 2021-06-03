@@ -44,10 +44,10 @@ body {
   color: white;
   font-family: 'Montserrat';
   font-weight: 300;
-  font-size: 10px;
+  font-size: 12px;
 }
 
-#uploadLink a {
+#uploadLink span {
   color: white;
   text-decoration: none;
 }
@@ -56,8 +56,9 @@ body {
   text-align: center;
   font-family: 'Montserrat';
   font-weight: 400;
-  font-size: 10px;
-  margin: 6px 36px;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 6px 48px;
 }
 
 #introTerms a {
