@@ -14,6 +14,6 @@ body {
   background-color: pink;
 }
 
-#detailsContainer {
+#detailsContainer.h1 {
   font-family: Montserrat;
 }
