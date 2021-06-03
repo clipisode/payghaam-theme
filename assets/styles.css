@@ -19,13 +19,13 @@ body {
 
 #introHostName {
   font-family: Montserrat;
-  margin: 1rem 4rem 0 0.8rem;
+  margin: 2rem 4rem 0 2rem;
 }
 
 #introTitle {
   font-family: Montserrat;
   font-weight: 700;
-  margin: 0 4rem 0 0.8rem;
+  margin: 0 4rem 0 2rem;
   font-size: 1.4rem;
   line-height: 1.1;
 }
@@ -55,7 +55,7 @@ body {
 #introTerms {
   text-align: center;
   font-family: 'Montserrat';
-  font-weight: 400;
+  font-weight: 300;
   font-size: 12px;
   line-height: 15px;
   margin: 6px 48px;
