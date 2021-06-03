@@ -21,7 +21,7 @@ export const siteData: SiteData = {
               <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
             </a>
           </div>
-          <h1 class="font-heading mt-3 mb-6 text-xl md:text-2xl max-h-28 md:max-h-32 overflow-hidden">TOPIC_TITLE</h1>
+          <h1 class="mt-3 mb-6 text-xl md:text-2xl max-h-28 md:max-h-32 overflow-hidden">TOPIC_TITLE</h1>
         </div>
         <div class="m-8">QR_CODE</div>
         <div>
