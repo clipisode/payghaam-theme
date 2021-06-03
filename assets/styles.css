@@ -48,7 +48,8 @@ body {
 }
 
 #uploadLink a {
-  text-decoration: underline;
+  color: white;
+  text-decoration: none;
 }
 
 #introTerms {
@@ -57,4 +58,9 @@ body {
   font-weight: 400;
   font-size: 0.75rem;
   margin: 6px 24px;
+}
+
+#introTerms a {
+  color: white;
+  text-decoration: none;
 }
