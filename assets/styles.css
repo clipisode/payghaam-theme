@@ -42,14 +42,19 @@ body {
 
 #uploadLink {
   color: white;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 0.5rem;
 }
 
 #uploadLink a {
-  color: #9072b9;
+  text-decoration: underline;
 }
 
 #introTerms {
+  font-size: 0.5rem;
   font-family: 'Montserrat';
+  font-weight: 400;
   text-align: center;
   margin: 6px 24px;
 }
