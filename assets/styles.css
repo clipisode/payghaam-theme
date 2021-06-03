@@ -77,4 +77,15 @@ body {
 
 #buttonsContainer button {
   background-color: #7738d0;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  padding: 2px 36px;
+  margin-bottom: 6px;
+}
+
+#nameScreen label {
+  font-weight: 300;
+  font-size: 10px;
 }
