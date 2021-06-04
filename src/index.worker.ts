@@ -46,7 +46,7 @@ export const siteData: SiteData = {
           <p class="mt-12 mb-12 mx-3 text-center">This invitation is no longer <span class="whitespace-nowrap">accepting replies.</span></p>
           <div class="items-center flex flex-col">
             <a href="https://payghaam.com">
-              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
+              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px;" />
             </a>
           </div>
         </div>
