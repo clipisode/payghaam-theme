@@ -44,7 +44,7 @@ export const siteData: SiteData = {
       <div class="flex flex-grow flex-col items-center justify-between">
         <div>
           <p class="mt-12 mb-12 mx-3 text-center">This invitation is no longer <span class="whitespace-nowrap">accepting replies.</span></p>
-          <div class="items-center flex flex-col space-y-5">
+          <div class="items-center flex flex-col">
             <a href="https://payghaam.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
             </a>
@@ -58,18 +58,19 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center justify-between">
         <div>
-          <p class="mt-12 mb-12 mx-3 text-center">Awesome… all done!<br>Wasn't that easy?</p>
-          <div class="items-center flex flex-col space-y-5">
+          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Awesome… all done!<br>Wasn&rsquo;t that easy?</p>
+          <div class="items-center flex flex-col">
             <a href="https://payghaam.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
             </a>
           </div>
-          <p class="mt-12 mb-12 mx-3 text-center"><b>While you're at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
+          <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
         </div>
       </div>
-  `,
+      <p id="hasttag"><b>#</b>Poocho<b>Sawaal</b></p>
+      `,
   },
   warningWide: {
-    description: `<p class="mb-4">Tall videos work best because Payghaam combines your video with a star's tall answer video.</p><p class="mb-4"p>We can crop this video and make it tall or you can choose a new video.</p>`,
+    description: `<p class="mb-4">Tall videos work best because Payghaam combines your video with a star&rsquo;s tall answer video.</p><p class="mb-4"p>We can crop this video and make it tall or you can choose a new video.</p>`,
   },
 };
