@@ -41,7 +41,7 @@ export const siteData: SiteData = {
   closedScreen: {
     // values: THEME_FILE_ROOT, INVITATION_DISPLAY_NAME
     markup: `
-      <div class="flex flex-grow flex-col items-center justify-between">
+      <div class="flex flex-grow flex-col items-center">
         <div>
           <p class="mt-12 mb-12 mx-3 text-center">This invitation is no longer <span class="whitespace-nowrap">accepting replies.</span></p>
           <div class="items-center flex flex-col">
@@ -56,7 +56,7 @@ export const siteData: SiteData = {
   successScreen: {
     // values: THEME_FILE_ROOT, INVITATION_DISPLAY_NAME
     markup: `
-      <div class="flex flex-grow flex-col items-center justify-between">
+      <div class="flex flex-grow flex-col items-center">
         <div>
           <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Awesome… all done!<br>Wasn&rsquo;t that easy?</p>
           <div class="items-center flex flex-col">
@@ -67,7 +67,7 @@ export const siteData: SiteData = {
           <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
         </div>
       </div>
-      <p id="hasttag"><b>#</b>Poocho<b>Sawaal</b></p>
+      <p id="hashtag"><b>#</b>Poocho<b>Sawaal</b></p>
       `,
   },
   warningWide: {
