@@ -108,6 +108,8 @@ body {
   font-weight: 500;
   font-size: 1.5rem;
   line-height: 1.8rem;
+  margin-top: 10rem;
+  margin-bottom: 2rem;
 }
 
 #checkusout {
@@ -122,8 +124,4 @@ body {
   bottom: 1.5rem;
   font-weight: 400;
   font-size: 1rem;
-}
-
-#checkusout b, #hashtag b {
-  font-weight: 500;
 }
