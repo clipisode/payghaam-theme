@@ -102,12 +102,10 @@ body {
 #successScreen p {
   color: white;
   font-family: 'Montserrat';
-  font-weight: 400;
-  font-size: 1.5rem;
 }
 
 #awesome {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1.5rem;
   line-height: 1.8rem;
 }
@@ -124,4 +122,8 @@ body {
   bottom: 1.5rem;
   font-weight: 400;
   font-size: 1rem;
+}
+
+#checkusout b, #hashtag b {
+  font-weight: 500;
 }
