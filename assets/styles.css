@@ -125,3 +125,18 @@ body {
   font-weight: 400;
   font-size: 1rem;
 }
+
+#videoArea {
+  width: 100%;
+  background: linear-gradient(
+    -15deg,
+    #000000 0%,
+    #45138a 15%,
+    #8e51e4 20%,
+    #8e51e4 40%,
+    #45138a 55%,
+    #000000 100%
+  );
+  background-size: 200% 200%;
+  animation: gradient 10s ease infinite;
+}
