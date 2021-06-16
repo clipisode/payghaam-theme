@@ -61,7 +61,7 @@ export const siteData: SiteData = {
           <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Awesome… all done!<br>Wasn&rsquo;t that easy?</p>
           <div class="items-center flex flex-col">
             <a href="https://payghaam.com">
-              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
+              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px;" />
             </a>
           </div>
           <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
