@@ -26,7 +26,7 @@ export const siteData: SiteData = {
         <div class="m-8">QR_CODE</div>
         <div>
           <p class="m-4 mb-6 text-base">Point your camera at the QR code to open this invitation link on your
-          phone and send <span class="whitespace-nowrap"><b>INVITATION_DISPLAY_NAME</b></span> <span class="whitespace-nowrap">a video reply.</span></p>
+          phone and send <b>INVITATION_DISPLAY_NAME</b> a <span class="whitespace-nowrap">video reply.</span></p>
         </div>
     </div>`,
   },
